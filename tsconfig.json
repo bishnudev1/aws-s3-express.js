@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+      "target": "es6",
+      "module": "commonjs",
+      "outDir": "./dist",  // Specify your desired output directory
+      "strict": true
+    }
+  }
+  
